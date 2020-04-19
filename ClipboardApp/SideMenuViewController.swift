@@ -1,6 +1,5 @@
 //
 //  SideMenuViewController.swift
-//  ClipboardApp
 //
 //  Created by 이준수 on 2020/03/15.
 //  Copyright © 2020 swift. All rights reserved.
